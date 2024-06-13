@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(223, 210, 197);
+}
+h2 {
+    background-color: rgb(255, 250, 221);
+    width: 500px;
+}
+img {
+    border-radius: 100px;
+}
+.boton_nombre {
+    border-radius: 20px;
+    border-color: aqua;
+    background-color: rgb(255, 255, 255);
+    width: 50cap;
+}
+.nombre {
+    color: rgb(57, 23, 68);
+}
+.nombre span{
+    color: indigo;
+}
+.github {
+    border-radius: 20px;
+}
+.contacton {
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.contactoe {
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.enviar {
+    border-radius: 20px;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+}
